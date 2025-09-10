@@ -6,3 +6,4 @@ export default class CreatePedido {
     return await this.pedidoRepository.create(pedidoData);
   }
 }
+//pedido
